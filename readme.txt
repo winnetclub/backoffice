@@ -1,0 +1,4 @@
+success
+danger
+warning
+info

@@ -1,0 +1,2 @@
+personal info can not be edited
+can not set passowrd/edited
